@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferbsx/)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2018-4786)
 
-- 🔬 Researcher at [@hasso-plattner-institut](https://github.com/hasso-plattner-institut) working on **Machine Learning**
+- 🔬 Researcher at [@Hasso Plattner Institute](https://github.com/hasso-plattner-institut) and [@Broad Institute of MIT and Harvard](https://github.com/broadinstitute) working on **Machine learning and algorithmic approaches to optimise viral disease spread prevention and detection**
 - 🌍 Organiser at [@codecurious-bln](https://github.com/codecurious-bln) — making tech more welcoming in Berlin (formerly Rails Girls Berlin)
 - 🧬 Contributing to [gget](https://github.com/pachterlab/gget) — a tool for efficient querying of genomic reference databases
 - 😊 Always happy to collaborate!
