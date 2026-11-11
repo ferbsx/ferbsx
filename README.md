@@ -7,7 +7,7 @@
 - 🔬 Researcher at [@Hasso Plattner Institute](https://github.com/hasso-plattner-institut) and [@Broad Institute of MIT and Harvard](https://github.com/broadinstitute) working on **Machine learning and algorithmic approaches to optimise viral disease spread prevention and detection**
 - 🌍 Co-founder at [@codecurious-bln](https://github.com/codecurious-bln) — making tech more welcoming in Berlin (formerly Rails Girls Berlin)
 - 🧬 Contributing to [gget](https://github.com/scverse/gget) — a tool for efficient querying of genomic reference databases
-- 🦉 Co-lead of [AuditOwl](https://auditowl.ai) — agentic auditing of research claims against their code ([code](https://github.com/PascalIversen/AuditOwl))
+- 🦉 Co-lead of [AuditOwl](https://auditowl.ai) — agentic auditing of research claims against their code ([code](https://github.com/PascalIversen/auditowl-neurips2025))
 - 😊 Always happy to collaborate!
 
 [![profile views](https://komarev.com/ghpvc/?username=ferbsx&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/antonkomarev/github-profile-views-counter)
